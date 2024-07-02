@@ -8,5 +8,6 @@ int main()
 	printf("Enter Your Name \n");
 	scanf("%s",str);
 	printf("Hello %s \n",str);
+	printf("Hello %s \n",str);
 	return 0;
 }
